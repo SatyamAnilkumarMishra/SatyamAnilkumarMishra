@@ -28,8 +28,8 @@
 | :--- | :--- |
 | **Languages** | `Python` `C++` `SQL` `JavaScript` `TypeScript` `Bash` |
 | **Backend & AI** | `FastAPI` `Model Context Protocol (MCP)` `LangGraph` `LangChain` `Evaluation Harnesses` `ChromaDB` `Pydantic` `Pytest` |
-| **Data & Storage** | `Databricks` `Delta Lake` `PySpark` `Unity Catalog` `PostgreSQL` `Redis` `Lustre FS` `iSCSI` |
-| **DevOps & Tools** | `Linux / POSIX` `Git` `GitHub Actions` `Docker` `Streamlit` `Next.js` |
+| **Data & Storage** | `Databricks` `Delta Lake` `PySpark` `Unity Catalog` `PostgreSQL` `MongoDB` `Redis` `Lustre FS` `iSCSI` |
+| **DevOps & Tools** | `Linux / POSIX` `Git` `GitHub Actions` `Docker` `Streamlit` `Next.js` `React` |
 
 </div>
 
@@ -66,13 +66,25 @@
   </tr>
   <tr>
     <td width="50%" align="center">
+      <a href="https://github.com/SatyamAnilkumarMishra/SellerSync">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SatyamAnilkumarMishra&repo=SellerSync&theme=tokyonight&hide_border=true&title_color=00D2BA" alt="SellerSync card" />
+      </a>
+    </td>
+    <td width="50%" align="center">
       <a href="https://github.com/SatyamAnilkumarMishra/mcp">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SatyamAnilkumarMishra&repo=mcp&theme=tokyonight&hide_border=true&title_color=00D2BA" alt="mcp card" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/SatyamAnilkumarMishra/lustre-cli">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SatyamAnilkumarMishra&repo=lustre-cli&theme=tokyonight&hide_border=true&title_color=00D2BA" alt="lustre-cli card" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/SatyamAnilkumarMishra/resilient-file-storage">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SatyamAnilkumarMishra&repo=resilient-file-storage&theme=tokyonight&hide_border=true&title_color=00D2BA" alt="resilient-file-storage card" />
       </a>
     </td>
   </tr>
@@ -90,17 +102,22 @@
    * Validates cited policy clauses against actual contracts before generating decisions (0% unverified citations).
    * **Stack:** Python, Databricks, Delta Lake, LangGraph, FastAPI, Streamlit, Pytest (51 tests)
 
-3. **[eval-harness-mcp](https://github.com/SatyamAnilkumarMishra/mcp)** — Zero-Dependency MCP Server from Scratch
+3. **[SellerSync](https://github.com/SatyamAnilkumarMishra/SellerSync)** — Dynamic Pricing & Market Intelligence Engine
+   * Full-stack e-commerce repricing platform for Amazon India & Flipkart sellers combining competitor tracking with ML price-demand optimization.
+   * Features Ridge regression and XGBoost models explained via SHAP feature attributions, backed by 75 automated Jest & Pytest test suites.
+   * **Stack:** React 19, TypeScript, Node.js 20, Express, Python FastAPI, XGBoost, SHAP, MongoDB, Docker
+
+4. **[eval-harness-mcp](https://github.com/SatyamAnilkumarMishra/mcp)** — Zero-Dependency MCP Server from Scratch
    * Lightweight Model Context Protocol (MCP) server built with Python's standard library (no external SDK).
    * Speaks raw JSON-RPC 2.0 over `stdio` and connects directly to an LLM evaluation harness.
    * **Stack:** Python (Standard Library only), JSON-RPC 2.0
 
-4. **[lustre-cli](https://github.com/SatyamAnilkumarMishra/lustre-cli)** — Distributed Lustre Filesystem & SAN Automation CLI
+5. **[lustre-cli](https://github.com/SatyamAnilkumarMishra/lustre-cli)** — Distributed Lustre Filesystem & SAN Automation CLI
    * Command-line tool that automates setting up iSCSI SAN storage and deploying Lustre distributed filesystems on Linux.
    * Features automated striping verification, read/write speed benchmarks, and network fault simulation routines.
    * **Stack:** Python, Lustre, iSCSI, Linux Storage
 
-5. **[resilient-file-storage](https://github.com/SatyamAnilkumarMishra/resilient-file-storage)** — Fault-Tolerant Storage Engine
+6. **[resilient-file-storage](https://github.com/SatyamAnilkumarMishra/resilient-file-storage)** — Fault-Tolerant Storage Engine
    * Distributed file storage prototype with data chunking, multi-node replica management, and automated failover.
    * **Stack:** Node.js, Distributed Storage
 
