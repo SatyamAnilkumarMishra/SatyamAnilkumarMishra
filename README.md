@@ -1,8 +1,37 @@
+<p align="center">
+  <a href="https://github.com/SatyamAnilkumarMishra/samportfolio" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-00D2BA?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
 # Hi, I'm Satyam Anilkumar Mishra 👋
 
 Software Engineer based in India, building backend services, distributed systems, and practical AI applications.
 
 I focus on strong fundamentals and writing clean, reliable code from scratch—whether that's building custom Model Context Protocol (MCP) servers, orchestrating distributed filesystems on Linux, or designing data pipelines.
+
+---
+
+### 🛠️ My Arsenal
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="c++ logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="fastapi logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="linux logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="docker logo" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SatyamAnilkumarMishra&theme=transparent&hide_border=true" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=SatyamAnilkumarMishra&label=Profile%20views&color=00D2BA&style=for-the-badge" />
+</p>
 
 ---
 
@@ -12,15 +41,6 @@ I'm a fresher looking to kickstart my career:
 - **Full-Time Roles:** Software Engineer (Backend, Python, AI/Data)
 - **Remote Work:** Open to global remote teams
 - **Freelance & Contract:** Custom MCP servers, FastAPI backends, and AI agent workflows
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, C++, SQL, TypeScript, JavaScript
-- **Backend & AI:** FastAPI, Model Context Protocol (MCP), LangGraph, LangChain, ChromaDB, Pytest
-- **Data & Storage:** Databricks, Delta Lake, PySpark, PostgreSQL, Linux Storage (iSCSI, Lustre)
-- **Tools:** Git, GitHub Actions, Docker, Linux
 
 ---
 
@@ -55,6 +75,13 @@ A command-line tool that automates setting up distributed storage on Linux.
 A fault-tolerant distributed file storage prototype.
 - Splits files into chunks, replicates them across multiple storage nodes, and handles automatic failover if a node goes down.
 - **Tech:** Node.js, Distributed Storage
+
+---
+
+### 🐍 A Snakey Friend
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SatyamAnilkumarMishra/SatyamAnilkumarMishra/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
