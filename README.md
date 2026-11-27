@@ -4,11 +4,17 @@
   </a>
 </p>
 
-# Hi, I'm Satyam Anilkumar Mishra 👋
+<h1 align="center">Satyam Anilkumar Mishra</h1>
 
-Software Engineer based in India, building backend services, distributed systems, and practical AI applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2BA&center=true&vCenter=true&width=560&lines=Backend+%26+AI+Systems+Engineer;Zero-Dependency+MCP+Protocol+Implementer;Distributed+Storage+%26+Linux+Tooling;Open+to+Full-Time+%26+Remote+Engineering+Roles" alt="Typing Animation" />
+</p>
 
-I focus on strong fundamentals and writing clean, reliable code from scratch—whether that's building custom Model Context Protocol (MCP) servers, orchestrating distributed filesystems on Linux, or designing data pipelines.
+<p align="center">
+  Software Engineer based in India, building backend services, distributed systems, and practical AI applications.
+  <br>
+  I build from first principles—whether that's zero-dependency protocol servers in Python, distributed storage tooling on Linux, or reliable agent workflows.
+</p>
 
 ---
 
@@ -26,7 +32,7 @@ I focus on strong fundamentals and writing clean, reliable code from scratch—w
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Consistency
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SatyamAnilkumarMishra&theme=transparent&hide_border=true" />
   <br>
@@ -78,10 +84,10 @@ A fault-tolerant distributed file storage prototype.
 
 ---
 
-### 🐍 A Snakey Friend
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SatyamAnilkumarMishra/SatyamAnilkumarMishra/output/snake.svg" alt="Snake animation" />
-</div>
+### 📈 Engineering Activity & Velocity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamAnilkumarMishra&theme=tokyo-night&hide_border=true&area=true&color=00D2BA&line=00D2BA&point=FFFFFF" alt="Engineering Velocity Graph" width="95%" />
+</p>
 
 ---
 
