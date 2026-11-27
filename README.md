@@ -5,12 +5,6 @@
 <p align="center">
   <a href="https://github.com/SatyamAnilkumarMishra/samportfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00D2BA?style=for-the-badge&logo=react&logoColor=0A1128" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="mailto:satyamsam2612@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>&nbsp;
-  <a href="https://github.com/SatyamAnilkumarMishra">
-    <img src="https://img.shields.io/badge/Status-Open_for_Roles-00D2BA?style=for-the-badge&logo=gitbook&logoColor=0A1128" alt="Status"/>
   </a>
 </p>
 
@@ -32,8 +26,8 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python` `C++` `SQL` `TypeScript` `JavaScript` `Bash` |
-| **Backend & AI** | `FastAPI` `Model Context Protocol (MCP)` `LangGraph` `LangChain` `ChromaDB` `Pydantic` `Pytest` |
+| **Languages** | `Python` `C++` `SQL` `JavaScript` `TypeScript` `Bash` |
+| **Backend & AI** | `FastAPI` `Model Context Protocol (MCP)` `LangGraph` `LangChain` `Evaluation Harnesses` `ChromaDB` `Pydantic` `Pytest` |
 | **Data & Storage** | `Databricks` `Delta Lake` `PySpark` `Unity Catalog` `PostgreSQL` `Redis` `Lustre FS` `iSCSI` |
 | **DevOps & Tools** | `Linux / POSIX` `Git` `GitHub Actions` `Docker` `Streamlit` `Next.js` |
 
@@ -43,8 +37,9 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="c++" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="32" alt="pytest" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="fastapi" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux" />&nbsp;&nbsp;&nbsp;
@@ -124,10 +119,9 @@
   <img src="https://komarev.com/ghpvc/?username=SatyamAnilkumarMishra&label=Profile%20views&color=00D2BA&style=for-the-badge" alt="Profile Views" />
 </p>
 
-### 📈 Engineering Activity & Velocity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamAnilkumarMishra&theme=tokyo-night&hide_border=true&area=true&color=00D2BA&line=00D2BA&point=FFFFFF" alt="Engineering Velocity Graph" width="95%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SatyamAnilkumarMishra/SatyamAnilkumarMishra/output/snake.svg" alt="Contribution Animation" />
+</div>
 
 ---
 
